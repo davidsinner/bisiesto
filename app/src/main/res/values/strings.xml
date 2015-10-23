@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Training App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_task">Add task</string>
+    <string name="action_new">New Task</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_accept">Accept</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Name</string>
+</resources>
